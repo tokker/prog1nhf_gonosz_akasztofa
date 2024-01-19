@@ -1,0 +1,6 @@
+#ifndef AKASZTOFAT_RAJZOL_H_INCLUDED
+#define AKASZTOFAT_RAJZOL_H_INCLUDED
+
+void akasztofat_rajzol(int n);
+
+#endif // AKASZTOFAT_RAJZOL_H_INCLUDED

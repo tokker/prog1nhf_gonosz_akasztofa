@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1575826652 source:c:\users\hp\desktop\c programok\nhf\nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaelem.h"
+	<time.h>
+	"hosszusagot_sorsol.h"
+	"leggyakoribb.h"
+	<math.h>
+	"akasztofat_rajzol.h"
+	"econio.h"
+	"torlesek.h"
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\listaelem.h
+
+1574758719 source:c:\users\hp\desktop\c programok\nhf\nhf\mas_hosszut_torol.c
+	<stdio.h>
+	<stdlib.h>
+	"listaelem.h"
+
+1574936972 source:c:\users\hp\desktop\c programok\nhf\nhf\hosszusagot_sorsol.c
+	<stdio.h>
+	<stdlib.h>
+	"listaelem.h"
+	<time.h>
+	"hosszusagot_sorsol.h"
+
+1574936972 source:c:\users\hp\desktop\c programok\nhf\nhf\fajlbeolvasas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaelem.h"
+
+1574778212 c:\users\hp\desktop\c programok\nhf\nhf\hosszusagot_sorsol.h
+	"listaelem.h"
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\mas_hosszut_torol.h
+
+1574778212 c:\users\hp\desktop\c programok\nhf\nhf\leggyakoribb.h
+	"listaelem.h"
+
+1574936972 source:c:\users\hp\desktop\c programok\nhf\nhf\leggyakoribb.c
+	<stdio.h>
+	<stdlib.h>
+	"listaelem.h"
+	<math.h>
+	"leggyakoribb.h"
+
+1574760362 source:c:\users\hp\desktop\c programok\nhf\nhf\mast_torol.c
+	<stdio.h>
+	<stdlib.h>
+	"listaelem.h"
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\mast_torol.h
+
+1574936972 source:c:\users\hp\desktop\c programok\nhf\nhf\akasztofat_rajzol.c
+	<stdio.h>
+	"akasztofat_rajzol.h"
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\akasztofat_rajzol.h
+
+1574758719 source:c:\users\hp\desktop\c programok\nhf\nhf\listat_felszabadit.c
+	<stdio.h>
+	<stdlib.h>
+	"listaelem.h"
+
+1574936972 source:c:\users\hp\desktop\c programok\nhf\nhf\econio.c
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\econio.h
+	<stdbool.h>
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1574718188 c:\users\hp\desktop\c programok\nhf\nhf\listat_felszabadit.h
+
+1575030929 source:c:\users\hp\desktop\c programok\nhf\nhf\torlesek.c
+	"torlesek.h"
+	<stdio.h>
+	<stdlib.h>
+	"listaelem.h"
+
+1574778212 c:\users\hp\desktop\c programok\nhf\nhf\torlesek.h
+	"listaelem.h"
+
